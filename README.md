@@ -46,7 +46,7 @@ Technological Institute of the Philippines, Quezon City
   - [Assignment](#midterms-assignment)
   - [Hands-on Activities](#midterms-hands-on-activities)
   - [Seatwork](#midterms-seatwork)
-- Finals: No activities uploaded yet.
+- Finals: 
 
 ---
 
